@@ -1,0 +1,939 @@
+GENDER,ETHNICITY,RELIGION,ADMT_DESC,STU_LEVL,STU_PRGM_CODE
+M,Asian,Unknown,Regular(Graduate Programs),GR,MS-CBS-AP
+F,Asian,Unknown,Regular(Graduate Programs),GR,MA-H-PSC
+F,Asian,Unknown,Regular(Graduate Programs),GR,MA-H-MFT
+M,Asian,Muslim,Regular(Graduate Programs),GR,MBA-OY
+F,Asian,Unknown,First Time Freshman,UG,BS
+F,Asian,Unknown,Academic Discovery Program,UG,BSN
+M,Asian,Unknown,Academic Discovery Program,UG,BS
+F,Asian,No Religion,First Time Freshman,UG,BBA
+F,Asian,Unknown,Regular(Graduate Programs),GR,CERT-GR-NUR
+F,Asian,Unknown,First Time Freshman,UG,BS
+F,Asian,Unknown,Regular(Graduate Programs),GR,MSW-OY
+F,Asian,No Religion,First Time Freshman,UG,BSN
+M,Asian,Unknown,First Time Freshman,UG,BS
+F,Asian,Other,Regular(Graduate Programs),DR,DNP-NAST-LSU
+F,Asian,Muslim,Regular(Graduate Programs),GR,MA-H-PSC
+F,Asian,Unknown,Regular(Graduate Programs),DR,PSYD
+M,Asian,Unknown,First Time Freshman,UG,BSN
+F,Asian,Unknown,First Time Freshman,UG,BSN
+M,Asian,Unknown,Regular(Graduate Programs),GR,MS-CIS-AP
+M,Asian,Unknown,First Time Freshman,UG,BA
+M,Asian,Unknown,First Time Freshman,UG,BSN
+F,Asian,Unknown,Regular(Graduate Programs),GR,MSN
+M,Asian,Unknown,First Time Freshman,UG,BBA
+F,Asian,Other,New Transfer,UG,BA
+F,Asian,Unknown,First Time Freshman,UG,BSN
+F,Asian,Christian,Regular(Graduate Programs),GR,PA-ED-CERT
+M,Asian,Unknown,Regular(Graduate Programs),GR,MBA-AP
+M,Asian,Unknown,First Time Freshman,UG,BS
+F,Asian,Unknown,First Time Freshman,UG,BS-ON
+M,Asian,Unknown,New Transfer,UG,RN-BSN-AP
+F,Asian,Unknown,First Time Freshman,UG,BS
+F,Asian,Unknown,First Time Freshman,UG,BBA
+M,Asian,Unknown,First Time Freshman,UG,BBA
+F,Asian,Unknown,Regular(Graduate Programs),GR,MBA-AP
+F,Asian,Unknown,First Time Freshman,UG,BSN
+F,Asian,Unknown,First Time Freshman,UG,BSN
+F,Asian,Unknown,Academic Discovery Program,UG,BSN
+F,Black or African American,Unknown,New Transfer,UG,BS
+M,Black or African American,Unknown,New Transfer,UG,BA
+F,Black or African American,Unknown,First Time Freshman,UG,BSPH
+F,Black or African American,Christian,New Transfer,UG,PRE-ACHIEVE
+F,Black or African American,Unknown,First Time Freshman,UG,BS
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Unknown,Dual Admission Transfer,UG,ACHIEVE
+F,Black or African American,No Religion,Regular(Graduate Programs),GR,MBA-AP
+F,Black or African American,Unknown,Academic Discovery Program,UG,BA
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MSW
+F,Black or African American,Muslim,New Transfer,UG,ACHIEVE
+F,Black or African American,Unknown,First Time Freshman,UG,BS
+F,Black or African American,Unknown,New Transfer,UG,PRE-ACHIEVE
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,No Religion,First Time Freshman,UG,BA
+F,Black or African American,Unknown,Academic Discovery Program,UG,BSN
+F,Black or African American,Unknown,Academic Discovery Program,UG,BA
+F,Black or African American,Christian,Dual Admission Transfer,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MBA-AP
+F,Black or African American,Unknown,HS/AA - Core-Core Dual Admit,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Christian,First Time Freshman,UG,BSN
+M,Black or African American,No Religion,New Transfer,UG,BBA
+M,Black or African American,Unknown,New Transfer,UG,BBA
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,CERT-GR-NUR
+F,Black or African American,Catholic,New Transfer,UG,BBA
+M,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,Academic Discovery Program,UG,BSN
+M,Black or African American,Unknown,First Time Freshman,UG,BS
+F,Black or African American,Baptist,New Transfer,UG,BBA
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,CERT-GR-NUR
+F,Black or African American,Christian,New Transfer,UG,BSW
+F,Black or African American,Unknown,Academic Discovery Program,UG,BS
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MA-COM-OY
+F,Black or African American,Christian,First Time Freshman,UG,BA
+M,Black or African American,Unknown,First Time Freshman,UG,BBA
+F,Black or African American,Christian,First Time Freshman,UG,BBA
+M,Black or African American,Unknown,First Time Freshman,UG,BA-S
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+M,Black or African American,Unknown,New Transfer,UG,BBA
+F,Black or African American,No Religion,Regular(Graduate Programs),GR,MSW
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Unknown,Provisional Accept,GR,MSW
+F,Black or African American,Christian,New Transfer,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Christian,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BA-S
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Unknown,Regular(Graduate Programs),GR,MBA-AP
+F,Black or African American,Baptist,New Transfer,UG,RN-BSN-AP
+F,Black or African American,Catholic,Academic Discovery Program,UG,BA
+F,Black or African American,Christian,Dual Admission Transfer,UG,BSN
+M,Black or African American,Unknown,First Time Freshman,UG,BS
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MBA-AP
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Unknown,First Time Freshman,UG,BBA
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Unknown,New Transfer,UG,ACHIEVE
+F,Black or African American,Unknown,Academic Discovery Program,UG,BSN
+F,Black or African American,Unknown,Academic Discovery Program,UG,BS
+F,Black or African American,Unknown,First Time Freshman,UG,BBA
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,No Religion,New Transfer,UG,BSPH
+F,Black or African American,Christian,First Time Freshman,UG,BSPH
+M,Black or African American,No Religion,New Transfer,UG,BS
+F,Black or African American,Muslim,First Time Freshman,UG,BSN
+F,Black or African American,Christian,Regular(Graduate Programs),GR,MBA-AP
+F,Black or African American,Unknown,First Time Freshman,UG,BS
+F,Black or African American,Christian,First Time Freshman,UG,BS
+F,Black or African American,Unknown,Academic Discovery Program,UG,BBA
+M,Black or African American,Christian,First Time Freshman,UG,BBA
+M,Black or African American,Unknown,Regular(Graduate Programs),GR,MSN
+M,Black or African American,Unknown,Academic Discovery Program,UG,BSN
+F,Black or African American,Muslim,Academic Discovery Program,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Christian,New Transfer,UG,ACHIEVE
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Christian,New Transfer,UG,RN-BSN-AP
+F,Black or African American,Christian,New Transfer,UG,ACHIEVE
+F,Black or African American,Unknown,Academic Discovery Program,UG,BSN
+M,Black or African American,Unknown,Academic Discovery Program,UG,BSN
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MA-H-MFT
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MSW
+M,Black or African American,Unknown,First Time Freshman,UG,BBA
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Christian,New Transfer,UG,BSN
+F,Black or African American,Catholic,New Transfer,UG,BA
+F,Black or African American,Baptist,New Transfer,UG,BA
+M,Black or African American,Unknown,First Time Freshman,UG,BS
+M,Black or African American,Unknown,Regular(Graduate Programs),GR,PA-ED-CERT
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Unknown,Academic Discovery Program,UG,BBA
+F,Black or African American,Unknown,Academic Discovery Program,UG,BA
+F,Black or African American,No Religion,New Transfer,UG,BA
+F,Black or African American,Unknown,Academic Discovery Program,UG,BA
+M,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,Academic Discovery Program,UG,BSN
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,PA-ED-CERT
+F,Black or African American,Christian,First Time Freshman,UG,BA
+F,Black or African American,Christian,New Transfer,UG,PRE-ACHIEVE
+M,Black or African American,Unknown,First Time Freshman,UG,BBA
+F,Black or African American,Unknown,First Time Freshman,UG,BS
+M,Black or African American,Unknown,First Time Freshman,UG,BS
+M,Black or African American,No Religion,Academic Discovery Program,UG,BA
+F,Black or African American,Christian,New Transfer,UG,BA
+M,Black or African American,Unknown,First Time Freshman,UG,BBA
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Baptist,Regular(Graduate Programs),GR,MSN
+F,Black or African American,Other,Regular(Graduate Programs),GR,MSW
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MS-A
+M,Black or African American,Unknown,First Time Freshman,UG,BBA
+F,Black or African American,Unknown,First Time Freshman,UG,BBA
+F,Black or African American,Christian,Regular(Graduate Programs),GR,MS-A
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MA-H-MFT
+M,Black or African American,Unknown,First Time Freshman,UG,BBA
+F,Black or African American,Christian,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BBA
+F,Black or African American,Unknown,First Time Freshman,UG,BA-S
+M,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Other,New Transfer,UG,PRE-ACHIEVE
+M,Black or African American,Christian,First Time Freshman,UG,BBA
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Unknown,Regular(Graduate Programs),GR,MBA
+F,Black or African American,Unknown,New Transfer,UG,BSNUTR
+F,Black or African American,Unknown,New Transfer,UG,ACHIEVE
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MA-H-PSC
+F,Black or African American,Unknown,First Time Freshman,UG,BBA
+M,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Baptist,New Transfer,UG,BBA
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Christian,Regular(Graduate Programs),GR,MSN
+F,Black or African American,Unknown,New Transfer,UG,BSW
+F,Black or African American,Unknown,First Time Freshman,UG,BA-S
+F,Black or African American,Unknown,First Time Freshman,UG,BS
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MBA-AP
+M,Black or African American,Muslim,Dual Admission Transfer,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Muslim,First Time Freshman,UG,BBA
+F,Black or African American,Christian,New Transfer,UG,BSN
+F,Black or African American,Unknown,New Transfer,UG,PRE-ACHIEVE
+M,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,Academic Discovery Program,UG,BS
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,No Religion,First Time Freshman,UG,BS
+F,Black or African American,Muslim,New Transfer,UG,RN-BSN-AP
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MSN-AP
+M,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Christian,First Time Freshman,UG,BS
+M,Black or African American,Unknown,New Transfer,UG,RN-BSN-AP
+F,Black or African American,Christian,First Time Freshman,UG,BA
+F,Black or African American,Unknown,First Time Freshman,UG,BS
+M,Black or African American,Other,New Transfer,UG,BA-S
+F,Black or African American,Unknown,Academic Discovery Program,UG,BSN
+F,Black or African American,Unknown,New Transfer,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSW
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MSN
+F,Black or African American,Catholic,Regular(Graduate Programs),GR,MBA-AP
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Muslim,First Time Freshman,UG,BA-S
+F,Black or African American,Muslim,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Catholic,Regular(Graduate Programs),GR,MS-CBS-AP
+F,Black or African American,Unknown,First Time Freshman,UG,BSPH
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Unknown,Academic Discovery Program,UG,BA
+M,Black or African American,Unknown,New Transfer,UG,BA
+F,Black or African American,No Religion,Post-Baccalaureate,UG,CERT-PMED-E
+F,Black or African American,Unknown,Academic Discovery Program,UG,BSN
+F,Black or African American,Baptist,First Time Freshman,UG,BBA
+F,Black or African American,Unknown,Academic Discovery Program,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Unknown,Regular(Graduate Programs),GR,MA-H-PSC
+M,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,Academic Discovery Program,UG,BSN
+F,Black or African American,Christian,Regular(Graduate Programs),GR,MSW
+F,Black or African American,Unknown,Academic Discovery Program,UG,BA
+M,Black or African American,Unknown,Academic Discovery Program,UG,BSN
+F,Black or African American,Unknown,New Transfer,UG,BSN
+M,Black or African American,Unknown,Academic Discovery Program,UG,BS
+M,Black or African American,Unknown,New Transfer,UG,BA
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BS
+M,Black or African American,Unknown,First Time Freshman,UG,BA
+M,Black or African American,Unknown,First Time Freshman,UG,BBA
+M,Black or African American,Catholic,Regular(Graduate Programs),GR,MS-CBS-AP
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MSN-AP
+F,Black or African American,Christian,New Transfer,UG,ACHIEVE
+M,Black or African American,Christian,First Time Freshman,UG,BBA
+F,Black or African American,Unknown,Academic Discovery Program,UG,BA
+M,Black or African American,Unknown,First Time Freshman,UG,BS
+F,Black or African American,Baptist,New Transfer,UG,ACHIEVE
+M,Black or African American,Unknown,First Time Freshman,UG,BS
+F,Black or African American,Unknown,New Transfer,UG,BBA
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,Academic Discovery Program,UG,BS
+F,Black or African American,Unknown,Academic Discovery Program,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,Academic Discovery Program,UG,BA
+M,Black or African American,Catholic,New Transfer,UG,BSPH
+F,Black or African American,Unknown,First Time Freshman,UG,BS
+M,Black or African American,Unknown,Post-Baccalaureate,UG,CERT-PMED-E
+F,Black or African American,Baptist,New Transfer,UG,RN-BSN-AP
+M,Black or African American,Unknown,First Time Freshman,UG,BS
+M,Black or African American,Unknown,First Time Freshman,UG,BBA
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MS-BSA-AP
+F,Black or African American,Unknown,New Transfer,UG,BA
+M,Black or African American,Unknown,New Transfer,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MSW
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Unknown,Regular(Graduate Programs),GR,MSN
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MBA-AP
+F,Black or African American,No Religion,New Transfer,UG,ACHIEVE
+M,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Christian,Regular(Graduate Programs),GR,MBA-AP
+M,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Christian,New Transfer,UG,ACHIEVE
+M,Black or African American,Baptist,Regular(Graduate Programs),GR,MBA-AP
+F,Black or African American,Unknown,Academic Discovery Program,UG,BBA
+F,Black or African American,Unknown,New Transfer,UG,ACHIEVE
+M,Black or African American,Unknown,Regular(Graduate Programs),GR,MSN
+F,Black or African American,Unknown,Academic Discovery Program,UG,BSN
+M,Black or African American,No Religion,First Time Freshman,UG,BS
+F,Black or African American,Christian,New Transfer,UG,BSN
+M,Black or African American,Christian,Regular(Graduate Programs),GR,MBA-AP
+F,Black or African American,No Religion,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BBA
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+M,Black or African American,Unknown,First Time Freshman,UG,BBA
+M,Black or African American,Unknown,Academic Discovery Program,UG,BBA
+F,Black or African American,Unknown,Academic Discovery Program,UG,BS
+F,Black or African American,Baptist,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,Post-Baccalaureate,UG,PRE-SLH-E
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Catholic,New Transfer,UG,ACHIEVE
+M,Black or African American,Unknown,First Time Freshman,UG,BA
+M,Black or African American,Unknown,Regular(Graduate Programs),GR,MBA-AP
+F,Black or African American,Muslim,First Time Freshman,UG,BSN
+F,Black or African American,Catholic,First Time Freshman,UG,BA
+F,Black or African American,Unknown,First Time Freshman,UG,BS-ON
+M,Black or African American,Unknown,First Time Freshman,UG,BBA
+F,Black or African American,Unknown,New Transfer,UG,ACHIEVE
+F,Black or African American,Unknown,Academic Discovery Program,UG,BA
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Christian,Academic Discovery Program,UG,BA
+F,Black or African American,Unknown,Academic Discovery Program,UG,BS
+M,Black or African American,Unknown,First Time Freshman,UG,BBA
+F,Black or African American,Unknown,New Transfer,UG,ACHIEVE
+F,Black or African American,Unknown,Academic Discovery Program,UG,BBA
+M,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Christian,First Time Freshman,UG,BS
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,No Religion,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Unknown,First Time Freshman,UG,BS
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BSPH
+F,Black or African American,Baptist,New Transfer,UG,BA
+F,Black or African American,Catholic,New Transfer,UG,PRE-ACHIEVE
+M,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Unknown,Regular(Graduate Programs),GR,MBA-AP
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Unknown,Regular(Graduate Programs),GR,MS-A
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,No Religion,New Transfer,UG,ACHIEVE
+M,Black or African American,No Religion,First Time Freshman,UG,BA-S
+F,Black or African American,Unknown,First Time Freshman,UG,BS
+F,Black or African American,No Religion,New Transfer,UG,PRE-ACHIEVE
+F,Black or African American,Christian,New Transfer,UG,PRE-ACHIEVE
+F,Black or African American,Unknown,Regular(Graduate Programs),DR,PSYD
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Christian,New Transfer,UG,ACHIEVE
+F,Black or African American,Unknown,New Transfer,UG,BBA
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Unknown,Regular(Graduate Programs),GR,MBA-AP
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+M,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BS
+F,Black or African American,Unknown,Post-Baccalaureate,UG,PRE-SLH-E
+F,Black or African American,Christian,First Time Freshman,UG,BA
+M,Black or African American,Unknown,Academic Discovery Program,UG,BBA
+F,Black or African American,Christian,Regular(Graduate Programs),GR,MA-U
+F,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+M,Black or African American,Unknown,First Time Freshman,UG,BA
+M,Black or African American,Unknown,First Time Freshman,UG,BSN
+F,Black or African American,Unknown,Academic Discovery Program,UG,BSN
+F,Black or African American,Unknown,First Time Freshman,UG,BA
+F,Black or African American,Unknown,First Time Freshman,UG,BS
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,First Time Freshman,UG,BA
+M,Hispanic,Unknown,New Transfer,UG,BA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Catholic,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,First Time Freshman,UG,BS
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+M,Hispanic,Unknown,First Time Freshman,UG,BBA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,Regular(Graduate Programs),GR,CERT-GR-NUR
+M,Hispanic,Unknown,First Time Freshman,UG,BBA
+M,Hispanic,Unknown,First Time Freshman,UG,BBA
+F,Hispanic,Unknown,Regular(Graduate Programs),GR,MA-COM-OY
+F,Hispanic,Unknown,First Time Freshman,UG,BS
+M,Hispanic,Unknown,First Time Freshman,UG,BA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,Regular(Graduate Programs),GR,MA-S
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Christian,Regular(Graduate Programs),GR,MBA-W
+F,Hispanic,Unknown,First Time Freshman,UG,BA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+M,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,Regular(Graduate Programs),GR,MA-H-PSC
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,New Transfer,UG,ACHIEVE
+M,Hispanic,Unknown,New Transfer,UG,ACHIEVE
+M,Hispanic,Unknown,Academic Discovery Program,UG,BBA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Catholic,First Time Freshman,UG,BSN
+F,Hispanic,Christian,Dual Admission Transfer,UG,BSN
+F,Hispanic,Unknown,Regular(Graduate Programs),GR,MA-H-MFT
+F,Hispanic,Catholic,Regular(Graduate Programs),GR,MS-A
+M,Hispanic,Unknown,First Time Freshman,UG,BBA
+M,Hispanic,Unknown,Provisional Accept,GR,MA-H-PSC
+M,Hispanic,Unknown,First Time Freshman,UG,BBA
+M,Hispanic,Catholic,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,First Time Freshman,UG,BBA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+M,Hispanic,Unknown,First Time Freshman,UG,BS
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,First Time Freshman,UG,BS
+F,Hispanic,Unknown,Academic Discovery Program,UG,BS
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+M,Hispanic,Unknown,Academic Discovery Program,UG,BBA
+F,Hispanic,Christian,New Transfer,UG,BSW
+F,Hispanic,Unknown,First Time Freshman,UG,BS
+F,Hispanic,Unknown,First Time Freshman,UG,BS
+M,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+M,Hispanic,Unknown,First Time Freshman,UG,BBA
+F,Hispanic,Unknown,Post-Baccalaureate,UG,PRE-SLH-E
+F,Hispanic,Unknown,First Time Freshman,UG,BBA
+F,Hispanic,Unknown,First Time Freshman,UG,BS
+F,Hispanic,Unknown,Regular(Graduate Programs),GR,MSW
+F,Hispanic,Baptist,New Transfer,UG,BSNUTR
+F,Hispanic,Unknown,First Time Freshman,UG,BBA
+F,Hispanic,Unknown,First Time Freshman,UG,BSNUTR
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+M,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+M,Hispanic,No Religion,New Transfer,UG,BSPH
+M,Hispanic,Other,First Time Freshman,UG,BA
+F,Hispanic,Unknown,Regular(Graduate Programs),GR,MSN-AP
+F,Hispanic,Unknown,New Transfer,UG,BBA
+F,Hispanic,Unknown,Regular(Graduate Programs),GR,MSW
+F,Hispanic,Unknown,New Transfer,UG,ACHIEVE
+M,Hispanic,Unknown,Academic Discovery Program,UG,BS
+F,Hispanic,Unknown,First Time Freshman,UG,BBA
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,First Time Freshman,UG,BBA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,Regular(Graduate Programs),GR,MSW
+F,Hispanic,Unknown,Academic Discovery Program,UG,BSN
+M,Hispanic,Unknown,First Time Freshman,UG,BS
+F,Hispanic,Unknown,First Time Freshman,UG,BBA
+F,Hispanic,Catholic,First Time Freshman,UG,BA
+F,Hispanic,Unknown,Academic Discovery Program,UG,BA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,Regular(Graduate Programs),GR,MS-A
+M,Hispanic,Unknown,First Time Freshman,UG,BBA
+M,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+M,Hispanic,Unknown,First Time Freshman,UG,BBA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,No Religion,New Transfer,UG,BA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,Academic Discovery Program,UG,BSN
+M,Hispanic,Unknown,Academic Discovery Program,UG,BA
+F,Hispanic,Catholic,First Time Freshman,UG,BSN
+M,Hispanic,Unknown,First Time Freshman,UG,BSN
+M,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,First Time Freshman,UG,BS
+M,Hispanic,Unknown,First Time Freshman,UG,BS
+M,Hispanic,Unknown,First Time Freshman,UG,BA-S
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,First Time Freshman,UG,BBA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Christian,New Transfer,UG,BS
+M,Hispanic,Unknown,First Time Freshman,UG,BSN
+M,Hispanic,Unknown,Academic Discovery Program,UG,BA-S
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Catholic,New Transfer,UG,BSNUTR
+F,Hispanic,Unknown,First Time Freshman,UG,BBA
+M,Hispanic,Unknown,First Time Freshman,UG,BS
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,First Time Freshman,UG,BA
+M,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+M,Hispanic,Christian,First Time Freshman,UG,BS
+M,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,First Time Freshman,UG,BA
+F,Hispanic,Other,New Transfer,UG,BSW
+F,Hispanic,Catholic,New Transfer,UG,ACHIEVE
+F,Hispanic,Unknown,First Time Freshman,UG,BSW
+F,Hispanic,Unknown,Post-Baccalaureate,UG,PRE-SLH-E
+M,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,New Transfer,UG,PRE-ACHIEVE
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+M,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,Academic Discovery Program,UG,BSN
+F,Hispanic,Unknown,Regular(Graduate Programs),GR,MBA-AP
+M,Hispanic,Unknown,First Time Freshman,UG,BBA
+F,Hispanic,Unknown,Regular(Graduate Programs),GR,MBA-W
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Catholic,First Time Freshman,UG,BSN
+M,Hispanic,Unknown,First Time Freshman,UG,BA
+F,Hispanic,Unknown,Academic Discovery Program,UG,BSN
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+M,Hispanic,Unknown,First Time Freshman,UG,BBA
+F,Hispanic,Unknown,First Time Freshman,UG,BBA
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+M,Hispanic,Unknown,Academic Discovery Program,UG,BS
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+M,Hispanic,No Religion,Regular(Graduate Programs),GR,MSW-OY
+F,Hispanic,Unknown,Academic Discovery Program,UG,BBA
+M,Hispanic,Unknown,First Time Freshman,UG,BA
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,First Time Freshman,UG,BA
+M,Hispanic,Catholic,First Time Freshman,UG,BA
+M,Hispanic,Unknown,First Time Freshman,UG,BS
+M,Hispanic,Unknown,Academic Discovery Program,UG,BSN
+F,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+M,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+M,Hispanic,Unknown,BUSCA,UG,X-BUSCA
+F,Hispanic,Unknown,First Time Freshman,UG,BSNUTR
+F,Hispanic,Christian,New Transfer,UG,RN-BSN-AP
+M,Hispanic,Unknown,First Time Freshman,UG,BSN
+F,Hispanic,Christian,New Transfer,UG,BS-ON
+M,Hispanic,Catholic,First Time Freshman,UG,BS
+F,Hispanic,Unknown,First Time Freshman,UG,BA
+F,Hispanic,Unknown,First Time Freshman,UG,BSN
+M,International,Unknown,Regular(Graduate Programs),GR,MS-BSA-SF
+F,International,Unknown,Regular(Graduate Programs),GR,MA-H-MFT
+F,International,Unknown,Regular(Graduate Programs),GR,MA-H-PSC
+F,International,Unknown,Regular(Graduate Programs),GR,MS-BSA-SF
+M,International,No Religion,Regular(Graduate Programs),GR,MBA-OY
+M,International,Unknown,BUSCA,UG,X-BUSCA
+F,International,Unknown,Visa/International Freshman,UG,BA-S
+M,International,Catholic,Visa/International Transfer,UG,BS
+M,International,Hindu,Visa/International Freshman,UG,BS
+F,International,Christian,Visa/International Freshman,UG,BA
+M,International,Unknown,Visa/International Freshman,UG,BS
+F,International,Unknown,Visa/International Freshman,UG,BBA
+F,International,Catholic,Visa/International Freshman,UG,BA
+M,International,No Religion,Visa/International Transfer,UG,BS
+F,International,Christian,Visa/International Freshman,UG,BBA
+F,International,Christian,Visa/International Freshman,UG,BBA
+F,International,Other,Regular(Graduate Programs),GR,MA-H-PSC
+F,International,Unknown,Visa/International Freshman,UG,BA
+F,International,Unknown,Visa/International Freshman,UG,BBA
+F,International,Christian,Visa/International Transfer,UG,BS
+F,International,Unknown,Visa/International Freshman,UG,BA
+M,International,Christian,Visa/International Freshman,UG,BBA
+M,International,Unknown,Academic Discovery Program,UG,BA
+F,International,Unknown,Regular(Graduate Programs),GR,MS-BSA-SF
+M,International,Unknown,Regular(Graduate Programs),GR,MS-BSA-SF
+M,International,Unknown,Visa/International Freshman,UG,BBA
+M,International,Unknown,Visa/International Freshman,UG,BS
+F,International,Unknown,Visa/International Freshman,UG,BA
+M,International,Unknown,Visa/International Freshman,UG,BBA
+F,International,Christian,First Time Freshman,UG,BBA
+F,International,Unknown,Regular(Graduate Programs),DR,PSYD
+F,International,Muslim,Visa/International Transfer,UG,BA
+M,International,Unknown,Visa/International Freshman,UG,BBA
+F,International,Unknown,Regular(Graduate Programs),GR,MS-BSA-SF
+F,International,Unknown,Regular(Graduate Programs),GR,MA-H-MFT
+F,International,Unknown,Regular(Graduate Programs),GR,MA-COM-OY
+M,International,Christian,Visa/International Transfer,UG,BBA
+M,International,Unknown,Visa/International Freshman,UG,BBA
+F,International,Unknown,Regular(Graduate Programs),GR,MS-BSA-SF
+M,International,Catholic,Visa/International Transfer,UG,BS
+M,International,Unknown,Visa/International Freshman,UG,BA
+F,International,Unknown,Visa/International Freshman,UG,BS
+F,International,Unknown,Visa/International Freshman,UG,BA
+F,International,Unknown,Visa/International Freshman,UG,BBA
+F,International,Unknown,Visa/International Freshman,UG,BBA
+F,International,Unknown,BUSCA,UG,X-BUSCA
+F,International,Unknown,Visa/International Freshman,UG,BBA
+F,International,Catholic,Visa/International Transfer,UG,BA
+F,International,No Religion,Visa/International Freshman,UG,BSN
+M,International,Catholic,Regular(Graduate Programs),GR,MBA-W
+F,International,Christian,Visa/International Freshman,UG,BS
+M,International,Unknown,Visa/International Freshman,UG,BBA
+F,International,Unknown,Visa/International Freshman,UG,BA
+M,International,No Religion,Visa/International Freshman,UG,BA
+M,International,Unknown,Regular(Graduate Programs),GR,MBA-W
+M,International,Unknown,Visa/International Freshman,UG,BSPH
+M,International,Unknown,Visa/International Freshman,UG,BS
+M,International,Unknown,Regular(Graduate Programs),GR,MA-COM-OY
+M,International,Unknown,Regular(Graduate Programs),GR,MA-H-PSC
+F,International,Unknown,Visa/International Freshman,UG,BA
+M,International,Muslim,Visa/International Freshman,UG,BA-S
+M,International,Unknown,Visa/International Freshman,UG,BBA
+F,International,Unknown,Visa/International Freshman,UG,BS
+M,International,Unknown,Visa/International Transfer,UG,BBA
+F,Multiethnic,Christian,Dual Admission Transfer,UG,BA
+F,Multiethnic,Unknown,First Time Freshman,UG,BS
+M,Multiethnic,Unknown,Regular(Graduate Programs),GR,CERT-DSC-AP
+F,Multiethnic,Unknown,First Time Freshman,UG,BS
+M,Multiethnic,Unknown,Regular(Graduate Programs),GR,MS-A
+F,Multiethnic,Unknown,Regular(Graduate Programs),GR,MBA-AP
+F,Multiethnic,Unknown,Regular(Graduate Programs),GR,MSN-AP
+M,Multiethnic,Baptist,Regular(Graduate Programs),GR,MS-ECF-AP
+M,Multiethnic,Unknown,First Time Freshman,UG,BS
+M,Multiethnic,Unknown,Regular(Graduate Programs),GR,CERT-GR-NUR
+F,Multiethnic,Unknown,First Time Freshman,UG,BS
+M,Multiethnic,Unknown,First Time Freshman,UG,BS
+F,Multiethnic,Unknown,First Time Freshman,UG,BA
+F,Multiethnic,Unknown,First Time Freshman,UG,BA
+M,Multiethnic,Unknown,First Time Freshman,UG,BA
+F,Multiethnic,Unknown,First Time Freshman,UG,BSN
+M,Multiethnic,Lutheran,New Transfer,UG,BA
+M,Multiethnic,Unknown,Regular(Graduate Programs),GR,MS-BSA
+F,Multiethnic,Unknown,First Time Freshman,UG,BS
+F,Multiethnic,No Religion,First Time Freshman,UG,BA
+M,Multiethnic,Unknown,First Time Freshman,UG,BS
+F,Multiethnic,Unknown,First Time Freshman,UG,BA
+M,Multiethnic,Unknown,First Time Freshman,UG,BA
+F,Multiethnic,Unknown,Regular(Graduate Programs),GR,CERT-GR-NUR
+F,Multiethnic,Unknown,First Time Freshman,UG,BBA
+F,Multiethnic,Unknown,First Time Freshman,UG,BA
+F,Multiethnic,Unknown,First Time Freshman,UG,BSN
+F,Multiethnic,Unknown,Academic Discovery Program,UG,BS
+F,Multiethnic,Unknown,Post-Baccalaureate,UG,PRE-SLH-E
+M,Multiethnic,Unknown,First Time Freshman,UG,BS
+F,Multiethnic,Unknown,First Time Freshman,UG,BA
+F,Multiethnic,Unknown,Post-Baccalaureate,UG,PRE-SLH-E
+F,Multiethnic,Unknown,Regular(Graduate Programs),DR,PSYD
+F,Multiethnic,Christian,New Transfer,UG,BA-S
+M,Multiethnic,Unknown,First Time Freshman,UG,BA
+F,Multiethnic,Unknown,Academic Discovery Program,UG,BSN
+M,Multiethnic,Unknown,New Transfer,UG,BS
+F,Multiethnic,Unknown,First Time Freshman,UG,BSN
+F,Multiethnic,Unknown,First Time Freshman,UG,BSN
+M,Multiethnic,Unknown,First Time Freshman,UG,BS
+F,Native American or Alaskan Native,Other,New Transfer,UG,BBA
+,Unknown,Unknown,Academic Discovery Program,UG,BSN
+M,Unknown,Unknown,New Transfer,UG,BSNUTR
+M,Unknown,Unknown,HS/AA - Core-Core Dual Admit,UG,BBA
+,Unknown,Unknown,New Transfer,UG,BA-S
+F,Unknown,Unknown,Regular(Graduate Programs),GR,MS-CBS-AP
+,Unknown,Unknown,Regular(Graduate Programs),GR,MS-A
+F,Unknown,Unknown,Regular(Graduate Programs),GR,MS-A
+F,Unknown,Unknown,Dual Admission Transfer,UG,BA
+M,Unknown,Unknown,New Transfer,UG,BA
+M,Unknown,Unknown,First Time Freshman,UG,BS
+F,Unknown,Unknown,First Time Freshman,UG,BBA
+N,Unknown,Unknown,Regular(Graduate Programs),GR,MS-A
+F,Unknown,Unknown,Post-Baccalaureate,UG,PRE-SLH-E
+,Unknown,Unknown,Regular(Graduate Programs),GR,MS-A
+F,Unknown,Unknown,BUSCA,UG,X-BUSCA
+F,Unknown,Unknown,First Time Freshman,UG,BBA
+F,Unknown,No Religion,Regular(Graduate Programs),GR,MSN
+F,Unknown,Unknown,Regular(Graduate Programs),GR,MS-A
+,Unknown,Unknown,Regular(Graduate Programs),GR,MS-A
+,Unknown,Unknown,Academic Discovery Program,UG,BBA
+F,Unknown,Unknown,First Time Freshman,UG,BBA
+F,Unknown,Unknown,New Transfer,UG,BS-ON
+M,Unknown,Unknown,Academic Discovery Program,UG,BS
+,Unknown,Unknown,Regular(Graduate Programs),GR,MS-A
+F,Unknown,Unknown,First Time Freshman,UG,BS
+F,Unknown,Unknown,First Time Freshman,UG,BSN
+M,Unknown,Unknown,New Transfer,UG,BBA
+F,Unknown,Unknown,New Transfer,UG,BA
+M,Unknown,Unknown,First Time Freshman,UG,BSPH
+F,White,Unknown,Regular(Graduate Programs),DR,PSYD
+F,White,Unknown,Regular(Graduate Programs),DR,PSYD
+F,White,Unknown,Provisional Accept,GR,MBA-AP
+M,White,Christian,New Transfer,UG,BSN
+F,White,Unknown,Regular(Graduate Programs),GR,CERT-GR-NUR
+M,White,Unknown,Post-Baccalaureate,UG,CERT-PMED-E
+M,White,Unknown,First Time Freshman,UG,BA
+M,White,Unknown,Regular(Graduate Programs),GR,MA-H-MFT
+M,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,First Time Freshman,UG,BS
+F,White,Unknown,First Time Freshman,UG,BS-ON
+F,White,Unknown,Regular(Graduate Programs),GR,MSW-OY
+M,White,Unknown,First Time Freshman,UG,BA
+M,White,Unknown,First Time Freshman,UG,BBA
+M,White,Unknown,New Transfer,UG,BBA
+F,White,Unknown,First Time Freshman,UG,BBA
+M,White,Unknown,Regular(Graduate Programs),GR,CERT-GR-ARTS
+M,White,Unknown,First Time Freshman,UG,BBA
+M,White,Unknown,First Time Freshman,UG,BBA
+M,White,Catholic,First Time Freshman,UG,BA
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Catholic,New Transfer,UG,BA
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,New Transfer,UG,BSN
+M,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,First Time Freshman,UG,BA
+M,White,Unknown,Regular(Graduate Programs),GR,CERT-GR-NUR
+M,White,Lutheran,Regular(Graduate Programs),GR,MBA-OY
+F,White,Jewish,New Transfer,UG,BSN
+M,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,Regular(Graduate Programs),GR,MBA-W
+M,White,Unknown,New Transfer,UG,BBA
+F,White,Unknown,Regular(Graduate Programs),GR,MA-H-PSC
+M,White,Catholic,First Time Freshman,UG,BSN
+F,White,Unknown,Regular(Graduate Programs),GR,MSN-AP
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,Regular(Graduate Programs),GR,MSW-OY
+F,White,Unknown,Post-Baccalaureate,UG,PRE-SLH-E
+F,White,Unknown,Provisional Accept,GR,MA-H-PSC
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,New Transfer,UG,RN-BSN-AP
+F,White,Christian,New Transfer,UG,BS
+M,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,First Time Freshman,UG,BSN
+M,White,Unknown,Regular(Graduate Programs),GR,MS-ECF-AP
+M,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,Regular(Graduate Programs),GR,MA-U
+M,White,Catholic,Regular(Graduate Programs),GR,MA-COM
+M,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Catholic,Regular(Graduate Programs),GR,MS-A
+F,White,Unknown,Regular(Graduate Programs),GR,CERT-GR-NUR
+F,White,Unknown,Regular(Graduate Programs),GR,MA-H-PSC
+M,White,Catholic,New Transfer,UG,BBA
+F,White,Unknown,Regular(Graduate Programs),GR,MSN-AP
+M,White,Unknown,Regular(Graduate Programs),GR,MBA-AP
+F,White,Catholic,Regular(Graduate Programs),GR,MBA
+M,White,Unknown,Regular(Graduate Programs),GR,MA-COM
+F,White,Catholic,New Transfer,UG,BBA
+M,White,Unknown,First Time Freshman,UG,BBA
+M,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,Regular(Graduate Programs),GR,CERT-GR-NUR
+M,White,No Religion,New Transfer,UG,BA
+F,White,Unknown,Regular(Graduate Programs),GR,MBA-AP
+F,White,Unknown,First Time Freshman,UG,BBA
+M,White,Unknown,New Transfer,UG,BBA
+F,White,Unknown,Post-Baccalaureate,UG,PRE-SLH-E
+M,White,Unknown,Academic Discovery Program,UG,BS
+M,White,Unknown,Academic Discovery Program,UG,BBA
+M,White,Unknown,First Time Freshman,UG,BS
+F,White,Catholic,New Transfer,UG,ACCEL-SWK
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,First Time Freshman,UG,BS-ON
+F,White,Unknown,Regular(Graduate Programs),GR,MA-H-PSC
+M,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,Regular(Graduate Programs),GR,MSW
+M,White,Unknown,Regular(Graduate Programs),GR,MSW
+F,White,Unknown,First Time Freshman,UG,BA
+M,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,First Time Freshman,UG,BS-ON
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,First Time Freshman,UG,BSN
+M,White,Unknown,First Time Freshman,UG,BBA
+M,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,Regular(Graduate Programs),GR,MBA-AP
+M,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,First Time Freshman,UG,BA
+M,White,Catholic,New Transfer,UG,BBA
+M,White,Christian,First Time Freshman,UG,BA
+F,White,Unknown,Regular(Graduate Programs),GR,MSW
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,Regular(Graduate Programs),GR,MA-H-PSC
+M,White,Catholic,New Transfer,UG,BA
+M,White,Unknown,Provisional Accept,GR,MBA-AP
+F,White,Unknown,Regular(Graduate Programs),GR,PA-ED-CERT
+F,White,Unknown,First Time Freshman,UG,BSNUTR
+M,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,Regular(Graduate Programs),GR,MBA-AP
+M,White,Methodist,New Transfer,UG,BA
+F,White,Unknown,First Time Freshman,UG,BA-S
+F,White,Unknown,Post-Baccalaureate,UG,PRE-SLH-E
+M,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,First Time Freshman,UG,BSNUTR
+F,White,Unknown,First Time Freshman,UG,BS
+F,White,Catholic,First Time Freshman,UG,BSNUTR
+F,White,Catholic,Regular(Graduate Programs),GR,MSW
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,Regular(Graduate Programs),GR,MSW-OY
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,Regular(Graduate Programs),GR,MSW-OY
+M,White,Unknown,First Time Freshman,UG,BBA
+M,White,Unknown,Regular(Graduate Programs),GR,MS-BSA-AP
+F,White,No Religion,First Time Freshman,UG,BSN
+F,White,Unknown,New Transfer,UG,BBA
+F,White,Unknown,Regular(Graduate Programs),GR,MSN-AP
+F,White,Unknown,Regular(Graduate Programs),GR,MA-U
+F,White,Unknown,Regular(Graduate Programs),DR,PSYD
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,First Time Freshman,UG,BSN
+M,White,Christian,New Transfer,UG,BBA
+F,White,Catholic,First Time Freshman,UG,BS-ON
+F,White,Unknown,Regular(Graduate Programs),GR,MA-U
+M,White,Catholic,Regular(Graduate Programs),GR,MBA-OY
+M,White,Unknown,First Time Freshman,UG,BA
+M,White,Unknown,Regular(Graduate Programs),GR,MS-CIS-AP
+M,White,Unknown,First Time Freshman,UG,BBA
+M,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,Regular(Graduate Programs),GR,MSN-AP
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,First Time Freshman,UG,BBA
+M,White,Unknown,Regular(Graduate Programs),GR,MA-COM
+F,White,Unknown,First Time Freshman,UG,BS
+F,White,Catholic,Regular(Graduate Programs),GR,MBA-AP
+F,White,Unknown,Regular(Graduate Programs),DR,PSYD
+M,White,Unknown,First Time Freshman,UG,BA
+M,White,Unknown,Regular(Graduate Programs),GR,PA-ED-CERT
+F,White,Catholic,Regular(Graduate Programs),GR,MS-A
+M,White,Unknown,First Time Freshman,UG,BBA
+M,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,Regular(Graduate Programs),DR,PSYD
+M,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,First Time Freshman,UG,BSN
+M,White,Unknown,Regular(Graduate Programs),GR,MS-CBS-AP
+F,White,Catholic,First Time Freshman,UG,BA
+F,White,Unknown,First Time Freshman,UG,BSN
+M,White,Unknown,Regular(Graduate Programs),GR,MA-H-PSC
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Catholic,First Time Freshman,UG,BSN
+F,White,Unknown,First Time Freshman,UG,BSN
+M,White,Unknown,Regular(Graduate Programs),GR,MA-H-MFT
+F,White,Muslim,New Transfer,UG,RN-BSN-AP
+M,White,Unknown,Provisional Accept,GR,MBA-AP
+M,White,Unknown,Regular(Graduate Programs),GR,MBA
+M,White,Christian,First Time Freshman,UG,BA
+F,White,Unknown,First Time Freshman,UG,BBA
+F,White,Christian,Regular(Graduate Programs),GR,MBA-W
+F,White,Unknown,Regular(Graduate Programs),GR,MSN-AP
+F,White,Catholic,Regular(Graduate Programs),DR,DNP
+F,White,Unknown,First Time Freshman,UG,BS-ON
+F,White,Unknown,First Time Freshman,UG,BA
+M,White,Catholic,New Transfer,UG,RN-BSN-AP
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Catholic,First Time Freshman,UG,BS
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,Regular(Graduate Programs),GR,MSN-AP
+M,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,First Time Freshman,UG,BS
+M,White,Unknown,Regular(Graduate Programs),GR,MBA
+F,White,Unknown,Regular(Graduate Programs),GR,MS-A
+F,White,Unknown,Regular(Graduate Programs),GR,MA-H-MFT
+M,White,Unknown,First Time Freshman,UG,BBA
+M,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,First Time Freshman,UG,BA-S
+F,White,Unknown,Regular(Graduate Programs),DR,PSYD
+M,White,Unknown,Academic Discovery Program,UG,BS
+M,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,First Time Freshman,UG,BA
+M,White,Catholic,First Time Freshman,UG,BSN
+M,White,Christian,New Transfer,UG,BS
+F,White,Unknown,Post-Baccalaureate,UG,PRE-SLH-E
+M,White,Unknown,First Time Freshman,UG,BSNUTR
+M,White,Unknown,First Time Freshman,UG,BS
+F,White,Unknown,Academic Discovery Program,UG,BA
+F,White,Unknown,Regular(Graduate Programs),DR,DNP
+M,White,Unknown,First Time Freshman,UG,BA
+M,White,Unknown,First Time Freshman,UG,BBA
+M,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,Regular(Graduate Programs),GR,MA-H-PSC
+F,White,Unknown,Regular(Graduate Programs),GR,MSW
+M,White,Unknown,Regular(Graduate Programs),GR,MA-H-MFT
+F,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,Regular(Graduate Programs),GR,MSN-AP
+F,White,Unknown,Regular(Graduate Programs),GR,MS-A
+M,White,Unknown,Regular(Graduate Programs),GR,MBA-AP
+F,White,Unknown,Regular(Graduate Programs),GR,MSW
+M,White,Unknown,New Transfer,UG,BBA
+M,White,Unknown,First Time Freshman,UG,BBA
+M,White,Unknown,First Time Freshman,UG,BS
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,Provisional Accept,GR,MBA-AP
+F,White,Unknown,Regular(Graduate Programs),GR,MA-H-PSC
+M,White,Unknown,Regular(Graduate Programs),GR,MS-CIS-AP
+M,White,Christian,New Transfer,UG,BBA
+M,White,Methodist,Regular(Graduate Programs),GR,MS-BSA-SF
+F,White,Unknown,Regular(Graduate Programs),GR,MSW
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,Regular(Graduate Programs),GR,MS-NLD-ZN
+F,White,Unknown,Regular(Graduate Programs),GR,CERT-GR-NUR
+M,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,First Time Freshman,UG,BSN
+M,White,Catholic,Regular(Graduate Programs),GR,MA-U
+M,White,Unknown,Regular(Graduate Programs),GR,MA-H-MFT
+F,White,Unknown,Post-Baccalaureate,UG,PRE-SLH-E
+M,White,Unknown,Regular(Graduate Programs),GR,MA-H-PSC
+F,White,Unknown,Regular(Graduate Programs),GR,MSN-AP
+F,White,Unknown,New Transfer,UG,BSPH
+F,White,Unknown,Post-Baccalaureate,UG,PRE-SLH-E
+F,White,Unknown,Regular(Graduate Programs),GR,CERT-GR-NUR
+F,White,Unknown,Regular(Graduate Programs),DR,DNP
+F,White,Unknown,First Time Freshman,UG,BS-ON
+F,White,Unknown,Regular(Graduate Programs),GR,MSN-AP
+F,White,Unknown,Regular(Graduate Programs),GR,MA-H-PSC
+M,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,First Time Freshman,UG,BBA
+F,White,Catholic,Regular(Graduate Programs),GR,MA-H-PSC
+F,White,Christian,Regular(Graduate Programs),GR,CERT-GR-NUR
+M,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,Post-Baccalaureate,UG,PRE-SLH-E
+M,White,No Religion,New Transfer,UG,BBA
+F,White,Catholic,Regular(Graduate Programs),GR,MA-COM-OY
+M,White,Catholic,New Transfer,UG,BSNUTR
+F,White,Unknown,First Time Freshman,UG,BSNUTR
+F,White,Baptist,New Transfer,UG,BA
+F,White,Unknown,First Time Freshman,UG,BA
+F,White,Unknown,Regular(Graduate Programs),GR,MBA-AP
+F,White,Christian,New Transfer,UG,BS-ON
+F,White,Unknown,Regular(Graduate Programs),GR,MS-BSA-AP
+F,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,Regular(Graduate Programs),GR,PA-ED-CERT
+M,White,Unknown,First Time Freshman,UG,BBA
+M,White,Unknown,First Time Freshman,UG,BA-S
+F,White,Jewish,Regular(Graduate Programs),GR,MS-A
+M,White,Unknown,Regular(Graduate Programs),GR,MA-H-MFT
+F,White,Unknown,Academic Discovery Program,UG,BA
+F,White,Unknown,First Time Freshman,UG,BBA
+F,White,Unknown,New Transfer,UG,BBA
+M,White,Unknown,Regular(Graduate Programs),GR,MBA-AP
+F,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,Regular(Graduate Programs),GR,MA-H-MFT
+F,White,Catholic,First Time Freshman,UG,BBA
+M,White,Unknown,First Time Freshman,UG,BSN
+F,White,Unknown,New Transfer,UG,RN-BSN-AP
+M,White,Unknown,First Time Freshman,UG,BA
+M,White,Unknown,First Time Freshman,UG,BBA
